@@ -1,5 +1,7 @@
-
+[navigation]: https://github.com/nikhilt1998/Deep-Reinforcement-Learning-Nanodegree/blob/master/Navigation/navigation.gif
+"Trained Agent"
 # Project : Navigation
+![Trained Agent][navigation]
 
 ## Description 
 For this project, we train an agent to navigate and collect yellow bananas in a large, 
