@@ -1,5 +1,5 @@
 # Deep-Reinforcement-Learning-Nanodegree
-Deep Reinforcement Learning Udacity
+Deep Reinforcement Learning offered by Udacity
 
 # Prerequesite Knowledge
 This program requires experience with Python, probability, machine learning, and deep learning.
