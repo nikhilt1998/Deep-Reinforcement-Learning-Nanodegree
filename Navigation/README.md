@@ -50,7 +50,7 @@ Run the cells in the notebook `Navigation.ipynb` to train an agent that solves o
 task of collecting bananas.
 
 ## Understanding
-Read the >[DQN paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) to master all of the details.
+Read the [DQN paper](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf) to master all of the details.
 
 
 
