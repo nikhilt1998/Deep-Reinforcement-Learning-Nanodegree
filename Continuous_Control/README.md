@@ -47,7 +47,7 @@ the environment that matches your operating system:
 
 
 ## Understanding
-To gain more understanding go through the >[Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) Paper.
+To gain more understanding go through the [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) Paper.
 
 
 
