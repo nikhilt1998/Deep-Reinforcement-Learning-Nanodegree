@@ -13,3 +13,9 @@ This repository contains project files for my Udacity's Deep Reinforcement Learn
 >[Navigation](https://github.com/nikhilt1998/Deep-Reinforcement-Learning-Nanodegree/tree/master/Navigation)
 
 For this project, we train an agent to navigate and collect bananas in a large, square world using Deep Q-Network (DQN).
+
+### Continuous Control
+>[Continuous Control](https://github.com/nikhilt1998/Deep-Reinforcement-Learning-Nanodegree/tree/master/Continuous_Control)
+
+For this project, we train a double-jointed arm agent to follow a target location using Deep Distributed Policy
+Gradient (DDPG).
