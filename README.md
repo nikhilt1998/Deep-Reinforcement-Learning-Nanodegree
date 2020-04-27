@@ -19,3 +19,6 @@ For this project, we train an agent to navigate and collect bananas in a large, 
 
 For this project, we train a double-jointed arm agent to follow a target location using Deep Distributed Policy
 Gradient (DDPG).
+
+### Collaboration and Competition
+>[Collaboration and Competition](https://github.com/nikhilt1998/Deep-Reinforcement-Learning-Nanodegree/tree/master/Collaboration_nd_Competition)
