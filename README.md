@@ -22,3 +22,5 @@ Gradient (DDPG).
 
 ### Collaboration and Competition
 >[Collaboration and Competition](https://github.com/nikhilt1998/Deep-Reinforcement-Learning-Nanodegree/tree/master/Collaboration_nd_Competition)
+
+For this project, we train a pair of agents to play tennis using DDPG with shared replay buffer.
