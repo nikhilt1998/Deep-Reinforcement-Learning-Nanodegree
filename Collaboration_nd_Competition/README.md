@@ -43,7 +43,6 @@ the environment that matches your operating system:
 - Windows : [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
 ## Understanding
-For better understanding go through [DDPG Paper](https://arxiv.org/abs/1509.02971) and [Multi-Agent DDPG](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mi
-xed-cooperative-competitive-environments.pdf)
+For better understanding go through [DDPG Paper](https://arxiv.org/abs/1509.02971) and [Multi-Agent DDPG](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf)
 
 
