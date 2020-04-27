@@ -26,7 +26,7 @@ episodes.
 - `model.py`: Actor and Critic classes  
 - `config.json`: Configuration file to store variables and paths
 - `utils.py`: Helper functions 
-- `report.pdf`: Technical report
+- `Report.pdf`: Technical report
 
 ## Dependencies
 To be able to run this code, you will need an environment with Python 3 and 
