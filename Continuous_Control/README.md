@@ -45,10 +45,9 @@ the environment that matches your operating system:
 - MAC OSX : [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
 - Windows : [link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
 
+## Running
+Run the cells in the notebook `Continuous_Control.ipynb` to train an agent that solves our required
+task of moving the double-jointed arm.
 
 ## Understanding
 To gain more understanding go through the [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) Paper.
-
-
-
-
